@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addon.TCKNCheck", "Addon.TCKNCheck\Addon.TCKNCheck.csproj", "{6F9EE14F-757F-44A9-B33A-08F6E4C9AE10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{1307C2FE-77BC-4EAD-8ECB-EB5037C5C64E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9EE14F-757F-44A9-B33A-08F6E4C9AE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9EE14F-757F-44A9-B33A-08F6E4C9AE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9EE14F-757F-44A9-B33A-08F6E4C9AE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9EE14F-757F-44A9-B33A-08F6E4C9AE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1307C2FE-77BC-4EAD-8ECB-EB5037C5C64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1307C2FE-77BC-4EAD-8ECB-EB5037C5C64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1307C2FE-77BC-4EAD-8ECB-EB5037C5C64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1307C2FE-77BC-4EAD-8ECB-EB5037C5C64E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF514C4E-E41D-4E32-93E3-B6C2657F2E0E}
+	EndGlobalSection
+EndGlobal
